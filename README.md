@@ -9,10 +9,10 @@ Scripts for retrieveing data from different Plugwise products.
 
 ##Readers
 * [Smile]
-..* Polls for new values every n seconds (5 seconds).
+⋅⋅* Polls for new values every n seconds (5 seconds).
 * [Stretch]
-..* Polls for new values every n seconds (5 seconds).
-..* Stores the recently read value only if it comes from a new measurement different from the previous one.
+⋅⋅* Polls for new values every n seconds (5 seconds).
+⋅⋅* Stores the recently read value only if it comes from a new measurement different from the previous one.
 * [Stick]
-..* Requires this library: https://bitbucket.org/hadara/python-plugwise
-..* Polls for new values every n seconds (5 seconds).
+⋅⋅* Requires this library: https://bitbucket.org/hadara/python-plugwise
+⋅⋅* Polls for new values every n seconds (5 seconds).
