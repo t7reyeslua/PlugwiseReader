@@ -8,11 +8,11 @@ Scripts for retrieveing data from different Plugwise products.
 * PHP scripts to connect to the local database and insert the read values to the corresponding tables.
 
 ##Readers
-* [Smile]
+### [Smile]
 - Polls for new values every n seconds (5 seconds).
-* [Stretch]
+### [Stretch]
 - Polls for new values every n seconds (5 seconds).
 - Stores the recently read value only if it comes from a new measurement different from the previous one.
-* [Stick]
+### [Stick]
 - Requires this library: https://bitbucket.org/hadara/python-plugwise
 - Polls for new values every n seconds (5 seconds).
